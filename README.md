@@ -4,7 +4,7 @@
 
 1. Computers and servers:
 
-- Windows - all versions from XP to 11
+- Windows - from XP to 11
 - Linux
 - Mac OS - at least up to Catalina
 
@@ -21,7 +21,7 @@
 - mobile devices configured as mass storage (older phones, mp3 players etc.)
 - external USB drives
 - internal drives connected via USB bridge (eg. pulled from computers, where standard Drive Badger cannot be run, because [all USB ports are damaged](https://github.com/drivebadger/drivebadger/wiki/Hardware-problems-(damaged-USB-ports)))
-- including [drives encrypted](https://github.com/drivebadger/drivebadger/wiki/Encryption-support) using [Bitlocker](https://github.com/drivebadger/drivebadger/wiki/Encryption-support-(Bitlocker)), [LUKS](https://github.com/drivebadger/drivebadger/wiki/Encryption-support-(LUKS)), [VeraCrypt](https://github.com/drivebadger/drivebadger/wiki/Encryption-support-(VeraCrypt)) or APFS with [Apple FileVault](https://github.com/drivebadger/drivebadger/wiki/Encryption-support-(FileVault)), using the same [exclusions and key configuration repositories](https://github.com/drivebadger/drivebadger/wiki/Configuration-repositories), that are used by Drive Badger
+- including [drives encrypted](https://github.com/drivebadger/drivebadger/wiki/Encryption-support) using [Bitlocker](https://github.com/drivebadger/drivebadger/wiki/Encryption-support-(Bitlocker)), [LUKS](https://github.com/drivebadger/drivebadger/wiki/Encryption-support-(LUKS)), [VeraCrypt](https://github.com/drivebadger/drivebadger/wiki/Encryption-support-(VeraCrypt)) or APFS with [Apple FileVault](https://github.com/drivebadger/drivebadger/wiki/Encryption-support-(FileVault))
 
 
 # Repository and Wiki structure
